@@ -1,4 +1,4 @@
-def d1p1():
+def d1p2():
     input = open('d1p1_data', 'r')
     input = input.read()
     input = input.split()
@@ -13,4 +13,4 @@ def d1p1():
     print(val)
 
 
-d1p1()
+d1p2()
